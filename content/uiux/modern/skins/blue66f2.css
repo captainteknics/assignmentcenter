@@ -1,0 +1,124 @@
+a,
+a:focus,
+a:hover,
+.btn-link,
+.btn-link:focus,
+.btn-link:hover,
+.icon-color,
+.heading h3,
+.blog-wrapper h5 a:hover,
+.contact-list i,
+.social-network:hover,
+.services-wrapp i,
+.service-line i,
+.widget ul.cat li a:hover,
+.btn-primary.btn-bordered,
+.tagcloud a:hover,
+.widget_archive ul li a:hover,.widget_archive ul li a:hover:before,
+.widget_categories ul li a:hover,.widget_categories > ul li a:hover:before,
+.widget_pages ul li a:hover,.widget_pages > ul li a:hover:before,
+.widget_nav_menu ul li a:hover,
+.widget_meta ul li a:hover,.widget_meta > ul li a:hover:before,
+.widget_recent_entries ul li a:hover,.widget_recent_entries > ul li a:hover:before
+{
+	color:#045281;
+}
+.tagcloud > a:hover {color: #fff;}
+/*
+Border color
+=========================== */
+.navbar-default .navbar-nav li.current-menu-parent > a,
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a.selected,
+.navbar-default .navbar-nav .active a,
+.navbar-default .navbar-nav .dropdown.active a,
+.navbar-default .navbar-nav .active a:hover,
+.navbar-default .navbar-nav .dropdown.active a:hover,
+.navbar-default .navbar-nav .active a:focus,
+.navbar-default .navbar-nav .dropdown.active a:focus,
+.social-network:hover,
+.wpb_accordion_section.group h3:hover,
+.style2 .accordion-heading a:hover,
+.tabbable.style1 .tabber li a:hover,
+.tabbable.style2 .tabber li a:hover,
+.btn-primary.btn-bordered,
+.btn-demo:hover,
+.tagcloud a:hover{
+	border-color:#045281;
+}
+.tagcloud > a:hover,
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_section .wpb_accordion_header:hover,
+.wpb_accordion_section.group h3:hover{
+	text-decoration:none;
+	background-color: #045281;
+}
+.wpb_accordion_section.group h3:hover a{
+	color: #fff;
+}
+
+/*
+Background color
+=========================== */
+.color-bg,
+.home-wrapper,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary,
+.pricing-price,
+.portfolio-categ li a:hover,
+.portfolio-categ li.active a,
+.portfolio-categ li.active a:hover,
+div.pp_default .pp_close:hover,
+.contact-bottom,
+#contactform,
+.home-centered .sparator span,
+.home-form,
+.wpb_accordion_section.group h3:hover,
+.style2 .accordion-heading a:hover,
+.tabbable.style1 .tabber li a:hover,
+.tabbable.style2 .tabber li a:hover,
+.inner-head,
+.pagination li.active a,
+.pagination li.active a:focus,
+.pagination li.active a:active,
+.pagination li.active a:hover,
+.pagination li a:hover,
+.widget ul.tags li a:hover,
+.btn-primary.btn-bordered:hover,
+div.loading-visible,
+.btn-demo:hover{
+	background-color:#045281;
+}
+
+.btn-primary:focus.btn-bavel,
+.btn-primary:active.btn-bavel,
+.btn-primary.btn-bavel{
+	border-bottom:2px solid #3a97d2;
+}
+
+.btn-primary:hover{
+	background-color:#73c7fc;
+}
+
+.testimoni-wrapper,
+.pricing-wrapper,
+.da-thumbs li  article,
+.team-caption,
+.home-centered{
+	background-color:rgba(81, 176, 237, 0.9);
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav  li a:hover,
+	.navbar-default .navbar-nav li.active a:hover,
+	.navbar-default .navbar-nav li.active a:focus,
+	.navbar-default .navbar-nav li.active a:active,
+	.navbar-default .navbar-nav li a.selected,
+	.navbar-default .navbar-nav li a.selected:hover,
+	.navbar-default .navbar-nav li a.selected:focus,
+	.navbar-default .navbar-nav li a.selected:active,
+	.navbar-default .navbar-nav li.dropdown a.dropdown-toggle:focus,
+	.navbar-default .navbar-nav li.dropdown a.dropdown-toggle:active{
+		background-color:#73c7fc;
+	}
+}
